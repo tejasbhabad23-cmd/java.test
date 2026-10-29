@@ -1,6 +1,6 @@
 public class Test {
 
-    // Addition
+    // Addition                            
     static void add(int a, int b) {
         int res = a + b;
         System.out.println("Addition result: " + res);
@@ -38,7 +38,7 @@ public class Test {
         mul(x, y);
         div(x, y);
         System.out.println("ppppp");
-        System.out.println("hi this is pollscm");
+        system.out.println("hi");
     }
 }
 
