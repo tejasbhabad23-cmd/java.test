@@ -37,7 +37,7 @@ public class Test {
         sub(x, y);
         mul(x, y);
         div(x, y);
-        System.out.println("ppppp");
+        
         system.out.println("hi");
     }
 }
